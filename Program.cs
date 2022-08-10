@@ -10,7 +10,8 @@ namespace Entities
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            string x = "WORLD"
+            Console.WriteLine($"Hello {x}");
         }
     }
 }
